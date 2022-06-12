@@ -1,6 +1,5 @@
 *.iml
 .gradle
-/local.properties
 /.idea
 .DS_Store
 /build
@@ -8,3 +7,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+github.properties

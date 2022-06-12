@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "CanbusMonitor"
-include ':app'
+include ':example'
+include ':fytcanbusmonitor'
